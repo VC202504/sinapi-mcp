@@ -10,6 +10,7 @@ no tempo, montar um orçamento rápido e calcular o BDI pelo Acórdão 2622/2013
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![MCP](https://img.shields.io/badge/MCP-servidor-8A2BE2)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
+[![VC202504/sinapi-mcp MCP server](https://glama.ai/mcp/servers/VC202504/sinapi-mcp/badges/score.svg)](https://glama.ai/mcp/servers/VC202504/sinapi-mcp)
 
 > *English summary at the end.*
 
